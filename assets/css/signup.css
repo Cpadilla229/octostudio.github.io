@@ -31,4 +31,8 @@ button{
     background-color: blue;
     border: none;
     color: white;
+    margin-top: 20px;
+}
+form h1{
+    margin-bottom: 30px;
 }
